@@ -1,0 +1,9 @@
+    {
+        "title": "Crucible Cup",
+        "cup": "crucible",
+        "cp": 2500,
+        "meta": "crucible",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
