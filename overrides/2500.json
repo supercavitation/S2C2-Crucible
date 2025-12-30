@@ -929,13 +929,13 @@
   {
     "speciesId": "raikou",
     "fastMove": "VOLT_SWITCH",
-    "chargedMoves": ["SHADOW_BALL","AURA_SPHERE"],
+    "chargedMoves": ["WILD_CHARGE","AURA_SPHERE"],
     "weight": 1
   },
   {
     "speciesId": "raikou_shadow",
     "fastMove": "VOLT_SWITCH",
-    "chargedMoves": ["SHADOW_BALL","AURA_SPHERE"],
+    "chargedMoves": ["WILD_CHARGE","AURA_SPHERE"],
     "weight": 1
   },
   {
@@ -992,7 +992,7 @@
   },
   {
     "speciesId": "reshiram",
-    "chargedMoves": ["CRUNCH","FUSION_FLARE"],
+    "chargedMoves": ["STONE_EDGE","FUSION_FLARE"],
     "weight": 1
   },
   {
@@ -1019,6 +1019,11 @@
     "weight": 1
   },
   {
+    "speciesId": "sandslash",
+    "chargedMoves": ["ROCK_TOMB", "NIGHT_SLASH"],
+    "weight": 1
+  },
+  {
     "speciesId": "sandslash_alolan",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["ICE_PUNCH","DRILL_RUN"],
@@ -1028,6 +1033,11 @@
     "speciesId": "sandslash_alolan_shadow",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["ICE_PUNCH","DRILL_RUN"],
+    "weight": 1
+  },
+  {
+    "speciesId": "sandslash_shadow",
+    "chargedMoves": ["ROCK_TOMB", "NIGHT_SLASH"],
     "weight": 1
   },
   {
@@ -1424,7 +1434,7 @@
   },
   {
     "speciesId": "zekrom",
-    "chargedMoves": ["CRUNCH","FUSION_BOLT"],
+    "chargedMoves": ["OUTRAGE","FUSION_BOLT"],
     "weight": 1
   }
 ]
